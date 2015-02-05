@@ -1,2 +1,3 @@
 # Habronattus_transcriptomes
-scripts for transcriptome project
+Scripts for transcriptome project
+
